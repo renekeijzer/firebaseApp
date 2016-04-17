@@ -1,12 +1,14 @@
 # fire-base-app
 
-This project is generated with [yo angular generator](https://github.com/yeoman/generator-angular)
-version 1.0.0.
+##installing
+download npm here: `https://www.npmjs.com/`
+and run `npm install -g bower`
 
-## Build & development
+step 2:
+run `npm install` in the project root
 
-Run `grunt` for building and `grunt serve` for preview.
+step 3:
+run `bower install` in the project root
 
-## Testing
-
-Running `grunt test` will run the unit tests with karma.
+step 4:
+run `grunt serve` and visit the site at `http://localhost:9000/`
